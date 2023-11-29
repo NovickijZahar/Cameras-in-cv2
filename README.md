@@ -1,7 +1,7 @@
 # Cameras-in-cv2
 Изначельно нужно установить модули opencv-python, pyautogui и numpy
 ```python
-pip install opencv_python
+pip install opencv-python
 ```
 ```python
 pip install pyautogui
